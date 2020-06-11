@@ -6,4 +6,4 @@
 ![Github Release Version](https://img.shields.io/badge/python-2.7-green.svg)
 ![RTA loves Open source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-<p>Backdoor indetectable por antivirus escrito en Python</p>
+<p>Backdoor indetectable para Windows escrito en Python</p>
