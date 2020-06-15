@@ -7,7 +7,7 @@
 [![RTA loves Open source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/MarceloNoguera/backdoor-python)
 
 #### Spanish
-<p>Backdoor indetectable para Windows escrito en Python <br>
+<p>Backdoor indetectable escrito en Python <br>
   
 El archivo listener.py se ejecuta en la maquina atacante y en archivo backdoor en 
 la maquina victima.
@@ -22,7 +22,7 @@ my_backdoor = Backdoor("0.0.0.0", 4444)
 
 _______________________________________________________________________________________________________
 #### Inglish
-Undetectable backdoor for Windows written in Python
+Undetectable backdoor written in Python
 
 The file listener.py is executed on the attacking machine and in the backdoor file in 
 the victim machine.
